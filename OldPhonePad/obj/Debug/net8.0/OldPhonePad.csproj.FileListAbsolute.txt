@@ -1,0 +1,43 @@
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/bin/Debug/net8.0/OldPhonePad
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/bin/Debug/net8.0/OldPhonePad.deps.json
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/bin/Debug/net8.0/OldPhonePad.runtimeconfig.json
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/bin/Debug/net8.0/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/bin/Debug/net8.0/OldPhonePad.pdb
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfoInputs.cache
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfo.cs
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.csproj.CoreCompileInputs.cache
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/refint/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.pdb
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/OldPhonePad.genruntimeconfig.cache
+/Users/moemoe/Desktop/C Sharp Projects/OldPhonePad/obj/Debug/net8.0/ref/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.deps.json
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.runtimeconfig.json
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.pdb
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfoInputs.cache
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfo.cs
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.csproj.CoreCompileInputs.cache
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/refint/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.pdb
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.genruntimeconfig.cache
+/Users/moemoe/Desktop/C Sharp Projects/C# Coding Challenge/OldPhonePad/obj/Debug/net8.0/ref/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.deps.json
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.runtimeconfig.json
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/bin/Debug/net8.0/OldPhonePad.pdb
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfoInputs.cache
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.AssemblyInfo.cs
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.csproj.CoreCompileInputs.cache
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.sourcelink.json
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/refint/OldPhonePad.dll
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.pdb
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/OldPhonePad.genruntimeconfig.cache
+/Users/moemoe/Desktop/C Sharp Projects/CSharp_Coding_Challenge/OldPhonePad/obj/Debug/net8.0/ref/OldPhonePad.dll
